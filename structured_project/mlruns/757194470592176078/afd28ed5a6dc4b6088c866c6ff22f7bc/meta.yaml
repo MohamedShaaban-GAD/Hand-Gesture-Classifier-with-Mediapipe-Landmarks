@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/machine_learning/Machine_learning_projects/Machine_Learning1_Project/structured/mlruns/757194470592176078/afd28ed5a6dc4b6088c866c6ff22f7bc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '757194470592176078'
+lifecycle_stage: active
+run_id: afd28ed5a6dc4b6088c866c6ff22f7bc
+run_name: randomized_search_cv
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1772233034769
+status: 1
+tags: []
+user_id: 4k
